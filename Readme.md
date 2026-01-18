@@ -125,12 +125,7 @@ Le notebook est organisé en **8 parties progressives** :
   - Insertion/suppression aléatoire
 - Pipeline complet pour réseaux de neurones
 
-### 📊 **Partie 8 : Transformation Numérique (Aperçu)**
-- Introduction à Bag of Words
-- Introduction à TF-IDF
-- *(Word Embeddings seront couverts dans un cours dédié)*
 
----
 
 ## 💡 Conseils d'utilisation
 
